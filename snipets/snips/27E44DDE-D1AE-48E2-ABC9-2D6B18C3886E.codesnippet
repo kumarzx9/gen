@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>snmvc</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    
+    // MARK: IBOutlets
+    
+    // MARK: Private Variables
+    
+    // MARK: ViewLifeCycle
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+    }
+    
+    //MARK: IBActions
+    
+    </string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>27E44DDE-D1AE-48E2-ABC9-2D6B18C3886E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>vc marking</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>vc mark</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>snaddtarget</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>@objc func &lt;#ActionName#&gt;(sender: UIButton) {
+    print(sender.tag)
+}
+cell?.&lt;#ButtonName#&gt;.addTarget(self, action: #selector(&lt;#ActionName#&gt;(sender:)), for: .touchUpInside)
+cell?.&lt;#ButtonName#&gt;.tag = indexPath.row</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0D1C4034-C835-4239-BA5A-528305FD6F31</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>add target</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
