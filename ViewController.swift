@@ -8,13 +8,13 @@
 import UIKit
 
 
-// https://devkit.zobari.4livedemo.com/mtr-3-minute-breakfast-kesari-halwa-8 // dots
+// /mtr-3-minute-breakfast-kesari-halwa-8 // dots
 let htmlString1 = """
 <p>Wholesome & tasty halwa, ready in 3 minutes with just hot water. Savour this mouthwatering halwa and share it with your dear ones. If you are a sweet-toothed person, then this will be the right choice for you. Easy to prepare, enjoy this at your own leisure.</p>
 <p>Semolina (45%), Sugar, Milk Solids, Clarified Butter (Ghee), Edible Vegetable Fat-Interesterified (Palmolein Oil, Palm Kernel Oil), Cashewnut, Raisins, Maltodextrin, Cardamom, Saffron Extract.</p>
 """
 
-// https://devkit.zobari.4livedemo.com/horlicks-health-and-nutrition-drink-classic-malt-jar-9
+// /horlicks-health-and-nutrition-drink-classic-malt-jar-9
 let htmlString2 = """
 <ul style="font-size: 14px;">
     <li><span style="color: rgb(73, 73, 73); font-size: 14px;">Health Drink that has nutrients to support immunity</span></li>
@@ -23,7 +23,7 @@ let htmlString2 = """
 </ul>
 """
 
-// https://devkit.zobari.4livedemo.com/magic-cellar-non-alcoholic-red-grape-wine   //dots
+// /magic-cellar-non-alcoholic-red-grape-wine   //dots
 let htmlString3 = """
 <ul style="font-size: 14px;">
     <li><span style="color: rgb(103, 103, 103); font-size: 14px;">Suitable to be enjoyed by everyone</span></li>
